@@ -53,9 +53,9 @@ Want to swap the UI and DB? **The Interactor code should not change**, nor shoul
 - What information it needs to display to the user (an **Output Data** object; sometimes called a “response model”)
 - What method the Interactor will call on the Presenter (an **Output Boundary** that the Presenter implements: a Java interface, usually with a single method)
 
-Here’s the cycle in a nutshell. All the underlined parts are entirely new code for each user interaction. Follow the data through the image below.
+Here’s the cycle in a nutshell. All the bold parts are entirely new code for each user interaction. Follow the data through the image below.
 
-View —> Controller —> Interactor —> Data Access (request Entities) —> business logic —> Data Access (persist updated Entities) —> Presenter —> View Model —> View
+View —> **Controller** —> **Interactor** —> Data Access (request Entities) —> **business logic** —> Data Access (persist updated Entities) —> **Presenter** —> View Model —> View
 
 ## Example: transferring money from one bank account to another
 
