@@ -1,0 +1,19 @@
+{
+  "name": "clean-architecture-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulgries/Clean-Architecture-Visualizer/issues"
+  },
+  "bin": {
+    "test-cli": "./src/app/index.ts"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
