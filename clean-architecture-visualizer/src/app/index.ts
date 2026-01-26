@@ -6,7 +6,6 @@ import * as fs from "fs";
 import * as path from "path";
 import chalk from "chalk";
 import { exec } from "child_process";
-import type { bool } from "aws-sdk/clients/signer.js";
 
 const program = new Command();
 

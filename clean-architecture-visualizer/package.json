@@ -20,6 +20,7 @@
     "jest": "^30.2.0"
   },
   "dependencies": {
+    "@aws-sdk/client-signer": "^3.975.0",
     "@types/node": "^25.0.10",
     "chalk": "^5.6.2",
     "commander": "^14.0.2",
