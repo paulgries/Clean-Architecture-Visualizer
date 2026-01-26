@@ -1,8 +1,11 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 import { Command } from 'commander';
-import * as packageJson from '../../package.json';
+import packageJson from '../../package.json' with { type: "json"};
 
 const program = new Command();
 
-program.version(packageJson.version)
-    
+program
+  .name('#INSERTNAMEHERE#')
+  .version(packageJson.version);
+
+program.parse(process.argv);
