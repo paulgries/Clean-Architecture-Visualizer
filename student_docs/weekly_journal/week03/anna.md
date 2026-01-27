@@ -28,16 +28,17 @@ https://drive.google.com/file/d/1q7w2y9MAWsKtZCuuvAStgl8y-RqM4nlK/view?usp=shari
 Since I spent more time than I wanted on this course last week, I set out to be less ambitious this week, and I did manage to keep my time to 8-10 hours. 
 
 My goals for this week were:
-- [ ] Write Week 2 learning journal
-- [ ] Meet with Vivian to split up Figma work
-- [ ] Update the Figma Prototype based on feedback (Below my tasks only)
-  - [ ] Redesign the Learning Mode screen
+- [x] Write Week 2 learning journal
+- [x] Meet with Vivian to split up Figma work
+- [x] Update the Figma Prototype based on feedback (Below my tasks only)
+  - [x] Redesign the Learning Mode screen
   - [ ] Add a progress bar to show the metrics
   - [ ] Add more bad use cases
 - [ ] Determine what Figma skills Paul could teach us
-- [ ] Brainstorm use cases for how students use our project
+- [x] Brainstorm use cases for how students use our project
 
 Vivian and I decided that, as we were nearing the end of our time with Figma, a tutorial was less useful and have mostly been able to google our questions.
 
 Creating more bad use cases has been pushed to next week, since we ran out of time after redesigning other screens. 
 We were undecided on whether the progress bar would be necessary and what it should actually represent, so it did not get added. 
+
